@@ -10,3 +10,6 @@ Library/framework used:
 
 API used: 
 - Deck of Cards API: https://deckofcardsapi.com/
+
+
+![Example](https://i.imgur.com/qRGezWr.gif)
